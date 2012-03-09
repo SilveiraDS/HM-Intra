@@ -1,0 +1,10 @@
+bin
+videos
+*.o
+*.a
+*.P
+*.d
+.DS_Store
+HM.xcodeproj
+build/linux/HM-3.4/rec.yuv
+build/linux/HM-3.4/str.bin
